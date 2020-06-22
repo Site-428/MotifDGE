@@ -1,0 +1,1 @@
+cmd = ./results/02_callpeaks/Blasts hg19 ./results/03_anno_motif/Blasts/
