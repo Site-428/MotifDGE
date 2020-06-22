@@ -27,3 +27,4 @@ source ~/.bashrc
 motifDGE.R /path/to/yourDGE /path/to/yourMotif
 ```
 其中，差异表达基因文件格式请参阅[sample.txt](https://raw.githubusercontent.com/Site-428/MotifDGE/master/sample.txt)（目前只支持双样本）；Motif为Homer工具生成的结果文件夹。
+最终生成result.up、result.down两个文件，分别表示与TF相关的差异表达基因。
